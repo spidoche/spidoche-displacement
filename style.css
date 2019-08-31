@@ -1,0 +1,5 @@
+#dis_slider{width:100%; height:100vh}
+/*#dis_slider canvas{ width: 100%;}*/
+#dis_slider_nav { text-align: center; position: absolute; bottom: 30px; left: 0; width: 100%; display: block;;}
+#dis_slider_nav a{ display: inline-block; padding:10px;}
+#dis_slider_nav img{ width: 120px; border:1px solid #333;}
